@@ -1,3 +1,6 @@
+> ⚠️ This repo is a starting point, not a solution. 
+> You will get stuck. That's the point. Google is your best friend.
+
 # URL Shortener with Analytics
 
 > Shorten any URL and track every click with location, device and referrer data.
